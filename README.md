@@ -1,5 +1,7 @@
-```js
-json-server --watch db.json
-```
+# Petshop Huesitos CRUD
 
-Browser sync: browser-sync start --server --file . --host --port 5000 --startPath screens/lista_cliente.html
+Visitar Sitio ---> https://tinchogithub.github.io/Petshop-Huesitos/
+
+### Descripcion
+
+Sitio web para petshop desarrollado con Html, Css y js. Este proyecto lo realice con el proposito de crear un CRUD para la leer, crear, eliminar y actulizar los clientes. Utilizo json-server para crear una fake api rest para guardar la información.
