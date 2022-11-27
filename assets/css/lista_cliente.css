@@ -1,0 +1,16 @@
+.clientes-container {
+    padding-right: 1rem;
+    padding-left: 1rem;
+} 
+
+.header img{
+	width: 90px;
+	height: auto;
+}
+
+@media(min-width: 1200px) {
+	.clientes-container {
+		padding-left: calc((100vw - 900px)/2);
+		padding-right: calc((100vw - 900px)/2);
+	}
+}
